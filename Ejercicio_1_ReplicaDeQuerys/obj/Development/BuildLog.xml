@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>Ejercicio_1_ReplicaDeQuerys</Name>
-    <LastWriteTime>2026-06-24T07:30:47.9700754Z</LastWriteTime>
+    <LastWriteTime>2026-06-24T11:40:24.131454Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2026-06-24T07:30:47.9202773Z</LastWriteTime>
+      <Name>Ejercicio_1.dtsx</Name>
+      <LastWriteTime>2026-06-24T10:26:27.9301594Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Ejercicio2.dtsx</Name>
+      <LastWriteTime>2026-06-24T11:40:24.0939927Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
