@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="EM2026009007.DB_FormacionBI"
+  DTS:DTSID="{B8637028-3711-4B33-816E-398978AFBAC6}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=EM2026009007;Initial Catalog=DB_FormacionBI;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Ejercicio_1_ReplicaDeQuerys-{B8637028-3711-4B33-816E-398978AFBAC6}EM2026009007.DB_FormacionBI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
